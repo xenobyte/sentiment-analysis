@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 3. **Output:**
 
-   The script will display the accuracy and classification report of the model on the test data.
+   The `train_model.py` script will display the accuracy and classification report of the model on the test data.
 
 ## File Descriptions
 
